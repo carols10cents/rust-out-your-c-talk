@@ -6,8 +6,8 @@ This is a talk I gave at Pittsburgh Tech Fest on June 10, 2016. I gave a modifie
 
 ## In this repo
 
-* [Slides in PDF form with speaker notes](https://github.com/carols10cents/rust-out-your-c-talk/blob/master/slides-with-speaker-notes.pdf), to try and make my slides make sense without having seen the talk
-* [Slides in PDF form without speaker notes, 1 per page](https://github.com/carols10cents/rust-out-your-c-talk/blob/master/slides-without-speaker-notes.pdf), in case you wanted to use slides for something. [License is CC0](https://github.com/carols10cents/rust-out-your-c-talk/blob/master/LICENSE) except where noted; I'd love to hear if you find a use for this material though!
+* [Slides in PDF form with speaker notes](https://github.com/carols10cents/rust-out-your-c-talk/raw/master/slides-with-speaker-notes.pdf), to try and make my slides make sense without having seen the talk
+* [Slides in PDF form without speaker notes, 1 per page](https://github.com/carols10cents/rust-out-your-c-talk/raw/master/slides-without-speaker-notes.pdf), in case you wanted to use slides for something. [License is CC0](https://github.com/carols10cents/rust-out-your-c-talk/blob/master/LICENSE) except where noted; I'd love to hear if you find a use for this material though!
 * [Slides for the Functional Programming version in PDF form with speaker notes](https://github.com/carols10cents/rust-out-your-c-talk/raw/master/functional-slides-with-speaker-notes.pdf)
 * [Slides for the Functional Programming version in PDF form without speaker notes, 1 per page](https://github.com/carols10cents/rust-out-your-c-talk/raw/master/functional-slides-without-speaker-notes.pdf)
 
