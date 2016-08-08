@@ -20,5 +20,5 @@ The code for my rewrite of Zopfli from C to Rust lives on github at [carols10cen
 Resources that I drew heavily upon while preparing for this talk:
 
 * [The FFI chapter in The Rust Programming Language book](https://doc.rust-lang.org/book/ffi.html)
-* [The Rust FFI Omnibus](jakegoulding.com/rust-ffi-omnibus/), created by the ever-wonderful Jake Goulding
+* [The Rust FFI Omnibus](http://jakegoulding.com/rust-ffi-omnibus/), created by the ever-wonderful Jake Goulding
 * [Working Effectively with Legacy Code by Michael Feathers](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/ref=sr_1_1)
