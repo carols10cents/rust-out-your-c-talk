@@ -2,7 +2,11 @@
 
 Short URL to this repo: https://is.gd/c_rust
 
-This is a talk I gave at Pittsburgh Tech Fest on June 10, 2016. I gave a modified version at the Pittsburgh Functional Programming Meetup on Aug 8, 2016.
+This is a talk I have given at:
+
+- Pittsburgh Tech Fest on June 10, 2016
+- Pittsburgh Functional Programming Meetup on Aug 8, 2016
+- Erie Day of Code on June 16, 2017
 
 ## In this repo
 
@@ -15,12 +19,12 @@ This is a talk I gave at Pittsburgh Tech Fest on June 10, 2016. I gave a modifie
 
 ### Code
 
-The code for my rewrite of Zopfli from C to Rust lives on github at [carols10cents/zopfli](https://github.com/carols10cents/zopfli). The state it was in for this talk is preserved [on the techfest branch](https://github.com/carols10cents/zopfli/tree/techfest); any work done after the talk will be on [the master branch](https://github.com/carols10cents/zopfli).
+The code for my rewrite of Zopfli from C to Rust lives on github at [carols10cents/zopfli](https://github.com/carols10cents/zopfli). The state it was in for the Techfest and FP meetup talks is preserved [on the techfest branch](https://github.com/carols10cents/zopfli/tree/techfest); any work done after the talk will be on [the master branch](https://github.com/carols10cents/zopfli).
 
 ### Resources
 
 Resources that I drew heavily upon while preparing for this talk:
 
-* [The FFI chapter in The Rust Programming Language book](https://doc.rust-lang.org/book/ffi.html)
+* [The FFI chapter in The Rust Programming Language book](https://doc.rust-lang.org/book/first-edition/ffi.html)
 * [The Rust FFI Omnibus](http://jakegoulding.com/rust-ffi-omnibus/), created by the ever-wonderful Jake Goulding
 * [Working Effectively with Legacy Code by Michael Feathers](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/ref=sr_1_1)
