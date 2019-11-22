@@ -6,7 +6,7 @@ This is a talk I have given at:
 
 - Pittsburgh Tech Fest on June 10, 2016
 - Pittsburgh Functional Programming Meetup on Aug 8, 2016
-- Erie Day of Code on June 16, 2017
+- [Erie Day of Code on June 16, 2017](https://www.youtube.com/watch?v=SKGVItFlK3w)
 
 ## In this repo
 
